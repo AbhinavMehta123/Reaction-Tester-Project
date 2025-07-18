@@ -1,0 +1,19 @@
+/* The styling begins */
+h1{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+p{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: cursive;
+}
+/* styling the shapes */
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
